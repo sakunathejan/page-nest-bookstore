@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="200" viewBox="0 0 150 200">
+  <rect width="150" height="200" fill="#5a2a2a" rx="5"/>
+  <rect x="10" y="10" width="130" height="180" fill="none" stroke="#fff" stroke-width="1" rx="3"/>
+  <text x="75" y="85" text-anchor="middle" fill="white" font-size="12" font-family="Arial">Mystery of</text>
+  <text x="75" y="105" text-anchor="middle" fill="white" font-size="12" font-family="Arial">the Old</text>
+  <text x="75" y="125" text-anchor="middle" fill="white" font-size="12" font-family="Arial">House</text>
+  <rect x="40" y="145" width="70" height="3" fill="#c5a56a" rx="1"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="200" viewBox="0 0 150 200">
+  <rect width="150" height="200" fill="#1a4a3a" rx="5"/>
+  <rect x="10" y="10" width="130" height="180" fill="none" stroke="#fff" stroke-width="1" rx="3"/>
+  <text x="75" y="90" text-anchor="middle" fill="white" font-size="14" font-family="Arial">Learning</text>
+  <text x="75" y="110" text-anchor="middle" fill="white" font-size="14" font-family="Arial">the Stars</text>
+  <circle cx="75" cy="145" r="10" fill="none" stroke="#f5c542" stroke-width="1"/>
+  <circle cx="75" cy="145" r="2" fill="#f5c542"/>
+</svg>

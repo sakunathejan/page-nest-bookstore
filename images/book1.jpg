@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="200" viewBox="0 0 150 200">
+  <rect width="150" height="200" fill="#2a4a6a" rx="5"/>
+  <rect x="10" y="10" width="130" height="180" fill="none" stroke="#fff" stroke-width="1" rx="3"/>
+  <text x="75" y="90" text-anchor="middle" fill="white" font-size="14" font-family="Arial">The Great</text>
+  <text x="75" y="110" text-anchor="middle" fill="white" font-size="14" font-family="Arial">Adventure</text>
+  <rect x="40" y="145" width="70" height="3" fill="#f5c542" rx="1"/>
+  <rect x="50" y="155" width="50" height="3" fill="#f5c542" rx="1"/>
+</svg>
