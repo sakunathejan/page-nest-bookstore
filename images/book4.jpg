@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="200" viewBox="0 0 150 200">
+  <rect width="150" height="200" fill="#8a3a2a" rx="5"/>
+  <rect x="10" y="10" width="130" height="180" fill="none" stroke="#fff" stroke-width="1" rx="3"/>
+  <text x="75" y="85" text-anchor="middle" fill="white" font-size="14" font-family="Arial">Cooking</text>
+  <text x="75" y="105" text-anchor="middle" fill="white" font-size="14" font-family="Arial">with Love</text>
+  <circle cx="75" cy="140" r="8" fill="none" stroke="#f5c542" stroke-width="1.5"/>
+  <line x1="70" y1="140" x2="80" y2="140" stroke="#f5c542" stroke-width="1.5"/>
+  <line x1="75" y1="135" x2="75" y2="145" stroke="#f5c542" stroke-width="1.5"/>
+</svg>

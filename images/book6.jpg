@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="200" viewBox="0 0 150 200">
+  <rect width="150" height="200" fill="#3a6a3a" rx="5"/>
+  <rect x="10" y="10" width="130" height="180" fill="none" stroke="#fff" stroke-width="1" rx="3"/>
+  <text x="75" y="85" text-anchor="middle" fill="white" font-size="12" font-family="Arial">Gardening</text>
+  <text x="75" y="105" text-anchor="middle" fill="white" font-size="12" font-family="Arial">for</text>
+  <text x="75" y="125" text-anchor="middle" fill="white" font-size="12" font-family="Arial">Beginners</text>
+  <line x1="55" y1="145" x2="95" y2="145" stroke="#f5c542" stroke-width="2"/>
+  <line x1="75" y1="135" x2="75" y2="155" stroke="#f5c542" stroke-width="2"/>
+  <line x1="60" y1="140" x2="90" y2="140" stroke="#6a9a4a" stroke-width="1.5"/>
+</svg>
